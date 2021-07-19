@@ -2,6 +2,11 @@
 #//D4rkF4iry
 #//OG:Lynch_Shane_Optre
 
+1. step use the Setup.py script in the folder Tbotnet/SETUP/.
+2. step open the Installinterminal.txt % copy&paste into terminal with the terminal commands
+3. you are ready to start up ur botnet! 
+4. down below is the complete tutorial to get you going
+
 ### Bot.py
 The Bot script creates a socket on the specified port and starts listening for the Master. Once the Master makes the connection, it is first authenticated using a handshake process, if the authentication is successful, the Bot sends the Master it’s current time. The Master then replies with a message containing the Target Server’s hostname and port number, as well as when to attack, taking into account any time difference between the Bot and the Master.
 
@@ -42,3 +47,4 @@ Note that the time to attack is specified by how many seconds from now the attac
 
 
 #HAPPY HACKING!!! OR HAPPY DDOSING =D!
+if you come to any errors or anything you are more than welcome to contact me! 
