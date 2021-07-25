@@ -1,3 +1,0 @@
-[Requests](pip3 install pysocks bs4 scapy-python3)<Terminal;>
-[Requests](https://github.com/kennethreitz/requests) <sub>2.10.0 or higher</sub> Is in file[pip3 install requests]
-[netaddr](https://pypi.python.org/pypi/netaddr) <sub>tested with 0.7.19</sub> Command to download in terminal[pip3 install netaddr] 
